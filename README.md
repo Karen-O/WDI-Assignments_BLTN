@@ -1,2 +1,4 @@
 # WDI-Assignments_BLTN
-Single location for all my remaining WDI assignments-- both works-in-progress and completed. (Will be submitted as an issue comprised of links to them all.)
+Single location for all my remaining WDI assignments -- either completed, or denoted as questionable/perhaps-erroneous with an explanation why. 
+
+###Repo will be submitted as an issue, comprised of organized links to them all.
